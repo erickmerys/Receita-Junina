@@ -1,0 +1,64 @@
+.superior {
+    background: #FEECE0;
+    width: 800px;
+    right: 300px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.inferior {
+    background: #9B6647;
+    width: 800px;
+    right: 300px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #feece0;
+    margin-top: 0;
+}
+
+.pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#pamonha-id {
+    font-size: 45px;
+    color: #58190a;
+    font-weight: bold;
+    height: 50px;
+    margin: 0;
+}
+
+#prato-tipico {
+    font-size: 21px;
+    margin: 0;
+    color: #58190a;
+}
+
+#porcoes {
+    font-size: 25px;
+    margin: 0;
+    color: #9B6647;
+    display: flex;
+}
+
+.pagina button {
+    background-color: #ffffff00;
+    border: #ffffff00;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction:column ;
+    cursor: pointer;
+}
+
